@@ -30,8 +30,3 @@ For detailed methodology and results, please refer to the associated publication
 - All participants provided informed consent.
 - Data collection complied with institutional ethics and privacy guidelines.
 - Only anonymized, aggregated data are shared in this repository.
-
----
-
-## 📂 Repository Structure
-
